@@ -1,0 +1,16 @@
+{
+  "models": {
+    "0": {
+      "short25": "runs/extended-fold0-short25",
+      "uniform20261023": "runs/extended-fold0-owner",
+      "uniform20261024": "runs/oof-uniform-ensemble-v1/fold0-uniform-20261024",
+      "uniform20261025": "runs/oof-uniform-ensemble-v1/fold0-uniform-20261025"
+    },
+    "1": {
+      "short25": "runs/extended-fold1-short25",
+      "uniform20261023": "runs/extended-fold1-owner",
+      "uniform20261024": "runs/oof-uniform-ensemble-v1/fold1-uniform-20261024",
+      "uniform20261025": "runs/oof-uniform-ensemble-v1/fold1-uniform-20261025"
+    }
+  }
+}

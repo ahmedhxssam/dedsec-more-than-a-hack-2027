@@ -1,0 +1,16 @@
+.build/
+.venv/
+__pycache__/
+.pytest_cache/
+.DS_Store
+/data/
+/tactical/
+/broadcast/
+/private/
+*.csv
+*.npz
+*.npy
+*.mp4
+*.mov
+*_atd.txt
+*_atd.xml

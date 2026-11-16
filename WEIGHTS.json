@@ -1,0 +1,106 @@
+{
+  "note": "Serialized files may contain multiple fitted estimators; all retain original hashes.",
+  "serialized_weight_files": 20,
+  "weights": [
+    {
+      "bytes": 840721,
+      "path": "runs/context-pivot-20261029/full-transfer/gate-expert-full.pkl",
+      "sha256": "e16ac7de16b202081b00bf81ed8351130d99816a8986c476657d17a9c9db083d"
+    },
+    {
+      "bytes": 1162194,
+      "path": "runs/contextual-external-v1/models.pkl",
+      "sha256": "b8cc3c36fd09241cdb00ecf8fb6ce5acb56e2c44376173a12314799bb3ef87a6"
+    },
+    {
+      "bytes": 92167,
+      "path": "runs/extended-short-v2/model.pt",
+      "sha256": "cd1223c4638cc1e931b704a27dc423723d7743a826becb8e6c015b342e1108d2"
+    },
+    {
+      "bytes": 614751,
+      "path": "runs/gap-bridge-v20/models/full/model.pt",
+      "sha256": "96d186102c81c5a45a1c429944b773c6bb4f6957016e1eba9f71562777461207"
+    },
+    {
+      "bytes": 1881331,
+      "path": "runs/gap-spell-v3-evidence/models/full/model.pkl",
+      "sha256": "d2538e7e769afbcf2cada92d8f5b308d9705fb7a7c3991419621d2cfcc24d2be"
+    },
+    {
+      "bytes": 214715,
+      "path": "runs/hierarchical-joint-v70/models/full/model.pt",
+      "sha256": "cb908feb4993ac54544385b7bd1356374f653098c7ae746d3a4d6e21917972eb"
+    },
+    {
+      "bytes": 807283,
+      "path": "runs/joint-controller-ball/joint-v1/step4000/model.pt",
+      "sha256": "22bd2d2ad1261fbb04a0f3bdd73b83ab4357ad35463d72367d90ea5e1a2c5394"
+    },
+    {
+      "bytes": 97597,
+      "path": "runs/live-dead-temporal-v1/model.pt",
+      "sha256": "77b5bf9d975bdcb275f1862fe940ca4768589003a254e4be97db5d7ae80dcd3d"
+    },
+    {
+      "bytes": 92167,
+      "path": "runs/next-evidence-seeds/20261024-uniform/model.pt",
+      "sha256": "21e90c3cdf511e66f55f292902cc9788533ac85d756f551092ad666007b65b94"
+    },
+    {
+      "bytes": 92167,
+      "path": "runs/next-evidence-seeds/20261025-uniform/model.pt",
+      "sha256": "3c7b05937cdd267dd5d9af3780dcc7abfa670a7d58671d2fc13fede3124932b1"
+    },
+    {
+      "bytes": 1295013,
+      "path": "runs/overnight-boundary-v1/models.pkl",
+      "sha256": "8173f99cadb2a613f4e15b4c948edd3103433c442da2fc5656d521c7d6250c74"
+    },
+    {
+      "bytes": 92167,
+      "path": "runs/ownership-temporal-v1/model.pt",
+      "sha256": "036c02b4fbea21f0cac07a6549449be9d154e340682e6af1ff82f9516aea1286"
+    },
+    {
+      "bytes": 721,
+      "path": "runs/selected-edit-verifier-v10/models/full/model.pkl",
+      "sha256": "07cb721a7a19fe03e4e5530a5fac008f82d8f201b7c346f8fc409aef96272c0b"
+    },
+    {
+      "bytes": 1075089,
+      "path": "runs/stacked-gap-recovery-v7/models/full/model.pkl",
+      "sha256": "43512489862e7b59cad8a409ed3eef2255b8db584dbead1ec817e1e8c48f4fec"
+    },
+    {
+      "bytes": 1082184,
+      "path": "runs/two-hour-sprint/ball-imputer-v1/models.pkl",
+      "sha256": "34ff931c872868d3342295ac771b76ac567dc3659def357ebb01616f7e388936"
+    },
+    {
+      "bytes": 792640,
+      "path": "runs/two-hour-sprint/carrier-specialist-v1/model.pkl",
+      "sha256": "fdae76bb0264b5f5e5d9ad3b67b68fb5077535f7a90a0dfd666cbee47c910895"
+    },
+    {
+      "bytes": 642161,
+      "path": "runs/two-hour-sprint/decoder/segment-quality-geometry-v2/model.pkl",
+      "sha256": "fdcc9a23e3fcfc9c89149120735cc8d861110e88b77ec754d126aa7228255f51"
+    },
+    {
+      "bytes": 137179,
+      "path": "runs/two-hour-sprint/memory/gru-interp-v3/model.pt",
+      "sha256": "3bd2f88bd3608bc4fa765c896bf89023263ed6838bce2fa5e99e8c723a7c744b"
+    },
+    {
+      "bytes": 95303,
+      "path": "runs/two-hour-sprint/model/interp-full/model.pt",
+      "sha256": "072bcf74b788615f6d466c997890d0e209882aab4424a6e88ff6d1cbee30bd56"
+    },
+    {
+      "bytes": 1749017,
+      "path": "runs/two-hour-sprint/status-context-v1/model.pkl",
+      "sha256": "858869ca455b281a24a9382c0ce1b2522d09a6d4ce58d557e4c55c7cf8224f57"
+    }
+  ]
+}

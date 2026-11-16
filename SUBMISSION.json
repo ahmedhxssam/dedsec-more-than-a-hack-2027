@@ -1,0 +1,52 @@
+{
+  "additional_source_NN_used": false,
+  "base_component_manifest": "inference.json",
+  "base_component_manifest_sha256": "a964c1e74585a80dfe1d887cde818629cd3c5db391cfdfedb12d34ac5f90ce37",
+  "configuration": "strong1.json",
+  "configuration_sha256": "78eed279fd79fc6156aee058e239fbe573d633b97ca63a0639dbbb46d4451a9c",
+  "expected_csv": {
+    "columns": [
+      "frame",
+      "label"
+    ],
+    "first_frame": 0,
+    "labels": [
+      "H",
+      "A",
+      "D",
+      "X"
+    ],
+    "last_frame": 199318,
+    "rows": 199319,
+    "sha256": "d74b990829aa0ec69a141400129d92df0f4d17573749b15696fd6a026adf7a44"
+  },
+  "inference_entry": "reproduce_strong_scale1.py",
+  "kind": "DedSec-selected-Strong1-submission-package-v1",
+  "policy": {
+    "alpha": 0.5,
+    "apply_source": false,
+    "id": "strong_scale1",
+    "parent_confidence": 0.98,
+    "status_mode": "joint",
+    "transition_scale": 1.0
+  },
+  "publication_and_form_submission_state": "Managed externally by the user; this manifest records the selected local package only.",
+  "raw_reference_tracking_video_prediction_assets_distributed": false,
+  "runtime": {
+    "packages": {
+      "numpy": "2.2.6",
+      "pandas": "2.3.3",
+      "scikit-learn": "1.7.2",
+      "scipy": "1.15.3",
+      "threadpoolctl": "3.6.0",
+      "torch": "2.9.0"
+    },
+    "python": "3.11.12"
+  },
+  "scientific_assets_preserved": 152,
+  "serialized_weight_files": 20,
+  "technical_document": {
+    "path": "DedSec.md",
+    "sha256": "846c79cdd9818732754140576a964c3c33a6e145220eee031e0e13c566c130cc"
+  }
+}
